@@ -14,7 +14,7 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
 
     let locationManager = CLLocationManager()
     
-    // Perth, Scotland, United Kingdom
+    // Perth, Scotland, United Kingdom to be changed to desired start location
     let myLatitude = 56.268547
     let myLongitude = -3.396567
     
